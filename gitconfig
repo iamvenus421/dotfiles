@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iamhy10421@gmail.com
+	name = Hoi Yan Lam
